@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Samyak, a full stack software engineer💻 & an avgeek!✈
+I'm Samyak, a software engineer💻 & an avgeek!✈
 
  ### 👨‍💻 My Super Powers ⚡
 
