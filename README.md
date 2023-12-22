@@ -13,8 +13,6 @@ I'm Samyak, a software engineer💻 & an avgeek!✈
 <code><img height="40" src="https://raw.githubusercontent.com/jainsamyak/jainsamyak/master/images/mongodb.png"></code>
 
 
-![Samyak's github stats](https://github-readme-stats.vercel.app/api?username=jainsamyak&show_icons=true&hide_border=true&count_private=true&theme=prussian)
-
 
 
 
